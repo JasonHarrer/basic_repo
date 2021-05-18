@@ -1,1 +1,1 @@
-This is the second file.  This paragraph is part of the first commit.
+This is the second file.  This paragraph is now part of the second commit.
