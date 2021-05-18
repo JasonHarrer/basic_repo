@@ -1,0 +1,1 @@
+This is also a file, which I'm calling the third file.  As you guessed, this paragraph is part of the first commit.
